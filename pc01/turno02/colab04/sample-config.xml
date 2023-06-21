@@ -1,0 +1,18 @@
+<config>
+  <!-- Slot Control -->
+  
+  <cause v='COVID_19'/>
+  <power v='full'/>
+
+  <!-- User Information -->
+  <passkey v='22b7a704e4b4067f22b7a704e4b4067f '/>
+  <team v='234980'/>
+  <user v='e0ff7oey4zpt'/>
+
+  <!-- Folding Slots -->
+  
+   <slot id='1' type='GPU'>
+    <pci-bus v='0'/>
+    <pci-slot v='5'/>
+  </slot>
+</config>
