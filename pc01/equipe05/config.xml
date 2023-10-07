@@ -11,10 +11,10 @@
   -->
 
   <!-- User Information -->
-  <user value="lala"/> <!-- Enter your user name here -->
-  <cause v="Cancer"/>   <!-- Your cause -->
-  <team value="0"/>         <!-- Your team number -->
-  <passkey value=""/>       <!-- 32 hexadecimal characters if provided -->
+  <user value="c239s4jnrseu"/> <!-- Enter your user name here -->
+  <cause value="Cancer"/>   <!-- Your cause -->
+  <team value="234980"/>         <!-- Your team number -->
+  <passkey value="777fc329f163f1e5777fc329f163f1e5"/>       <!-- 32 hexadecimal characters if provided -->
 
   <power value="full"/>
   <gpu value="true"/>      <!-- If true, attempt to autoconfigure GPUs -->
