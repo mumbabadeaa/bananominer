@@ -12,6 +12,7 @@
 	<!-- Folding Slots -->
 
 	 <slot id="1" type="GPU">
-         <gpu-index v="0"/> 
-    	 </slot>
+	 <pci-bus v="0"/>
+	 <pci-slot v="5"/>
+	 </slot>
 </config>
